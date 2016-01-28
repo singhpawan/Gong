@@ -1,0 +1,50 @@
+type_id,name
+1,"Blog Post"
+2,"Book Review"
+3,Cartoon
+4,"Case Study"
+5,Chart
+6,Chat
+7,Clip
+8,Code
+9,Comment
+10,Contest
+11,"Creative Story"
+12,"Data and Statistics"
+13,Ebook
+14,"Event Information"
+15,FAQ
+16,Forecast
+17,Guide
+18,How-To
+19,Image
+20,Infographic
+21,Interactive
+22,Interview
+23,Links
+24,List
+25,"Live Tweet"
+26,"Live Video"
+27,Map
+28,Meme
+29,News
+30,Newsletter
+31,Opinion
+32,Photo
+33,"Pin Board"
+34,Podcast
+35,Poll
+36,Powerpoint
+37,"Product Information"
+38,"Product Review"
+39,Quizz
+40,Quote
+41,Research
+42,"Resource Page"
+43,Sponsored
+44,Spreadsheet
+45,Summary
+46,Timeline
+47,Video
+48,Webinar
+49,"White paper"
